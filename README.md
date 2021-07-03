@@ -1,2 +1,2 @@
 # CRUD-API
-Basic CRUD application using Flask and MongoDB.
+Basic CRUD api using Flask and MongoDB.
